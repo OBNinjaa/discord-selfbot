@@ -13,4 +13,4 @@ npm install discord.js
 ```
 
 ## Discord
-[Server](https://discord.gg/CFYxzX87ra)
+[Server](https://discord.gg/wolkig)
