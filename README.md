@@ -9,7 +9,7 @@ Download node from here [here](https://nodejs.org/en/)
 ## Install discord.js
 
 ```bash
-npm install discord.js
+npm install
 ```
 
 ## Discord
