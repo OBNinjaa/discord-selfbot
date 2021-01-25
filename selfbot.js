@@ -9,7 +9,7 @@ client.on("ready", () => {
 	console.log("[CLIENT] Connected to Discord via the token successfully.");
 	console.log("[CLIENT] Username: " + client.user.username);
 	console.log("[CLIENT] Running on Discord API version " + Discord.version);
-	console.log("[CLIENT] Running on Cloudy version " + sbversion);
+	console.log("[CLIENT] Running on Selfbot Name version " + sbversion);
 });
 
 client.login(token);
