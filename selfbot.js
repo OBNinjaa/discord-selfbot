@@ -13,7 +13,7 @@ client.on("ready", () => {
 	console.log("[CLIENT] Username: " + client.user.username);
 	console.log("[CLIENT] Running on Discord API version " + Discord.version);
 	console.log("[CLIENT] Running on Selfbot Name version " + sbversion);
-	client.user.setActivity(`videos & chilling`, { type: 3, browser: "DISCORD IOS" });
+	client.user.setActivity(`Made by OBNinjaa`, { type: 3, browser: "DISCORD IOS" });
 });
 
 client.login(token);
