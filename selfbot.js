@@ -16,4 +16,14 @@ client.on("ready", () => {
 	client.user.setActivity(`Made by OBNinjaa`, { type: 3, browser: "DISCORD IOS" });
 });
 
+client.on("message", function (message) {
+	if (message.content == ".bump") {
+		message.channel.send("**Auto bumper has started!**");
+
+		var interval = setInterval(function () {
+			message.channel.send("!bump");
+		}, 7.2e6);
+	}
+});
+
 client.login(token);
