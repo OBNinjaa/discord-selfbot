@@ -13,4 +13,4 @@ npm install
 ```
 
 ## Discord
-[Server](https://discord.gg/wolkig)
+[Server](https://discord.gg/oop)
