@@ -4,7 +4,7 @@ var config = require("./config.json");
 const chalk = require("chalk");
 const log = console.log;
 const fs = require("fs");
-process.title = "discord.gg/wolkig";
+process.title = "discord.gg/oop";
 
 const {
     prefix,
